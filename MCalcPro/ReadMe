@@ -1,0 +1,4 @@
+An app which calculates the Mortgage payments.
+Input your principle amount, ammortization perioed and rate of interest.
+Once the calculate button is clicked the details of payment to be done monthly is shown and also uses the speaking ability and calls out loud all the details.
+Also when you shake the device the data is cleared and set for re writing new data.(usage of accelerometer).
